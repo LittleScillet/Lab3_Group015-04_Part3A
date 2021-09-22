@@ -3,6 +3,7 @@ Project Team Members:
 Richard Roberson
 Anand Odbayar
 Max Malden
+Jake Colleran
 Nico Rodriguez
 making edits
 goioewg
